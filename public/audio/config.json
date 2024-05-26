@@ -1,17 +1,17 @@
 {
     "listener1": [
             {
-                "trackpath": "/song/vk.mp3",
+                "trackpath": "song/vk.mp3",
                 "trackname": "Track Name 1"
             },
             {
-                "trackpath": "/audio/TrackName2.mp3",
+                "trackpath": "song/vk.mp3",
                 "trackname": "Track Name 2"
             }
     ],
     "listener2": [
             {
-                "trackpath": "/audio/TrackName1.mp3",
+                "trackpath": "song/vk.mp3",
                 "trackname": "Track Name 1"
             }
     ]
